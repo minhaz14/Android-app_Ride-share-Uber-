@@ -2,7 +2,10 @@
 
 A Ride sharing project.
 
-## Design
+### 📸 Screenshots
 
-![design](https://github.com/minhaz14/Android-app_Ride-share-Uber-/blob/master/app/src/main/res/drawable/main.jpg)
+| Login Page        | Register Page | Welcome Page |
+| ------------- |:-------------:| :-------------:|
+| <img src="app\src\main\res\drawable\driver_login.png" /> | <img src="app\src\main\res\drawable\driver_register.png" /> | <img src="aapp\src\main\res\drawable\driver_location.jpg" /> |
+
 
