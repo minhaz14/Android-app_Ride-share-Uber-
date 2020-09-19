@@ -9,10 +9,10 @@
 
 
     <TextView
-        android:id="@+id/textView4"
+        android:id="@+id/driver_status"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Cusomer Login Page"
+        android:text="Driver Login Page"
         android:textColor="#282A3A"
         android:textSize="25sp"
         android:textStyle="bold"
@@ -23,7 +23,7 @@
         app:layout_constraintVertical_bias="0.120000005"  />
 
     <EditText
-        android:id="@+id/editTextTextEmailAddress3"
+        android:id="@+id/email_driver"
         android:layout_width="350dp"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -36,7 +36,7 @@
         app:layout_constraintVertical_bias="0.23000002" />
 
     <EditText
-        android:id="@+id/editTextTextPassword3"
+        android:id="@+id/password_driver"
         android:layout_width="350dp"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -49,7 +49,7 @@
         app:layout_constraintVertical_bias="0.35000002" />
 
     <Button
-        android:id="@+id/button7"
+        android:id="@+id/driver_login_button"
         android:layout_width="250dp"
         android:layout_height="50dp"
         android:text="LOGIN"
@@ -61,10 +61,10 @@
         app:layout_constraintVertical_bias="0.51"  />
 
     <TextView
-        android:id="@+id/textView5"
+        android:id="@+id/register_driver_link"
         android:layout_width="300dp"
         android:layout_height="wrap_content"
-        android:text="Dont Have a Account?"
+        android:text="Dont Have a Account? Register here..."
         android:textAlignment="center"
         android:textColor="@android:color/holo_red_dark"
         android:textSize="15sp"
@@ -73,10 +73,10 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.72"  />
+        app:layout_constraintVertical_bias="0.72" />
 
     <Button
-        android:id="@+id/button8"
+        android:id="@+id/driver_register_button"
         android:layout_width="250dp"
         android:layout_height="50dp"
         android:text="REGISTER"
@@ -85,5 +85,5 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.79" />
+        app:layout_constraintVertical_bias="0.51" />
 </androidx.constraintlayout.widget.ConstraintLayout>

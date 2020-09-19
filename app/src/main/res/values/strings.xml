@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">CAB</string>
+    <string name="cusomer_login_page">Cusomer Login Page</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="dont_have_a_account_register_here">Dont Have a Account? Register Here...</string>
+    <string name="title_activity_driver_map">Map</string>
 </resources>
